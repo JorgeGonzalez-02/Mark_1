@@ -1,0 +1,15 @@
+C:\Proyectos\Joder\Mark_1\bin\Debug\Mark_1.exe.config
+C:\Proyectos\Joder\Mark_1\bin\Debug\Mark_1.exe
+C:\Proyectos\Joder\Mark_1\bin\Debug\Mark_1.pdb
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.csprojAssemblyReference.cache
+C:\Proyectos\Joder\Mark_1\obj\Debug\MainWindow.g.cs
+C:\Proyectos\Joder\Mark_1\obj\Debug\App.g.cs
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1_MarkupCompile.cache
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1_MarkupCompile.lref
+C:\Proyectos\Joder\Mark_1\obj\Debug\MainWindow.baml
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.g.resources
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.Properties.Resources.resources
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.csproj.GenerateResource.cache
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.csproj.CoreCompileInputs.cache
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.exe
+C:\Proyectos\Joder\Mark_1\obj\Debug\Mark_1.pdb
